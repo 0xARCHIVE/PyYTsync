@@ -2,7 +2,7 @@
 A python script for converting a YouTube playlist to mp3 files and pushing them to another folder for device synchronisation
 
 ## Requirements
-* python 2.7+
+* python 2.7.12+
 * pip install youtube_dl
 
 ## Usage
