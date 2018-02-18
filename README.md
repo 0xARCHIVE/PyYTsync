@@ -6,7 +6,7 @@ A python script for converting a YouTube playlist to mp3 files and pushing them 
 * pip install youtube_dl
 
 ## Usage
-python path_to_file/sync.py -p playlist_url [-l path_to_sync_folder]
+python path/to/file/sync.py -p https://www.youtube.com/playlist?list=PLAYLIST_URL [-l path/to/sync/folder/]
 
 ### Explanation
 The script does the following:
