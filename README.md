@@ -12,7 +12,7 @@ python path/to/file/sync.py -p https://www.youtube.com/playlist?list=PLAYLIST_UR
 The script does the following:
 * downloads all of the videos in the playlist and converts them to mp3 files
 * saves the mp3 files in an output directory (in the same place as the script)
-* if path_to_sync_folder is specified, it will also copy all of the mp3 files to the sync folder
+* if path/to/sync/folder/ is specified, it will also copy all of the mp3 files to the sync folder
 
 ### My Setup
 * Windows Task Scheduler to automatically run the script at 10pm every night
