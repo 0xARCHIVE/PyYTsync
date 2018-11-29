@@ -1,4 +1,4 @@
-# YTsync
+# PyYTsync
 A python script for converting a YouTube playlist to mp3 files and pushing them to another folder for device synchronisation
 
 ## Requirements
